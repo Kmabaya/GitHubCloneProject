@@ -1,2 +1,1 @@
-Practice creating branches for feature development, merging branches, and resolving merge conflicts to simulate a common collaborative workflow on Git and GitHub
-This is a new feature-line
+Modification in main branch
